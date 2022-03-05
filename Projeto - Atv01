@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang= "pt">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Cursos Técnicos Integrados - IFCE</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <h1>Orientações/Informações sobre todos os Cursos Técnicos Integrados do IFCE(Campus Fortaleza)</h1>
+    <br>
+    
+    <h2>Introdução(Do que se trata o projeto?)</h2>
+    <img src="imagens/ifce" alt="Logo IFCE" width="400" height="350">
+ 
+    <p>Em princípio, vou fazer um site que oriente as pessoas que querem ingressar no IFCE fazendo algum curso técnico, seja integrado, seja concomitante. No começo, trabalharei apenas com os cursos técnicos integrados, e depois os concomitantes, caso haja tempo.</p>
+    <h2>Justificativa para escolher desenvolver esse projeto:</h2>
+    <p>Decidi desenvolver esse projeto para orientação 
+ a possíveis novos alunos do IFCE, que queiram ingressar na Instituição e fazer um Curso técnico, mas não sabem qual escolher. Muitas das vezes elas não sabem o que escolher porque não conhecem como realmente é cada curso técnico. Já vi várias pessoas trocando de curso por não se identificarem, seria bem útil uma página mostrando como que ela ia lidar caso entrasse nesse curso técnico. Digamos que é pra pessoa ter uma direção, um norte, podemos assim dizer nesse tema de Cursos Técnicos Integrados e Concomitantes(caso dê tempo de trabalhar com esses também), e quem sabe caso o projeto dê certo, fazer também com cursos de ensino superior.</p>
+    <h2>Conheça mais sobre o projeto clicando nos links abaixo:</h2>
+    <a href="https://ObjMetas-Atv01.elessandro14.repl.co"
+      target="_blank">Objetivos e Metas</a>
+    <br>
+    <br>
+    <a href="https://TecConhecimentos.elessandro14.repl.co" target="_blank">Técnicas/Conhecimentos que poderão ser usados no projeto:</a>
+    <br>
+    <br>
+    <a href="https://CronPlanejamento-Semanal-Atv01.elessandro14.repl.co" target="_blank">Cronogramas/Planejamento Semanal</a>
+    <br>
+    <br>
+    <a href="https://Prazos-Atv01.elessandro14.repl.co" target="_blank">Prazos</a>
+    <script src="script.js"></script>
+  </body>
+</html>
