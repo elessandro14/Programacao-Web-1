@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+     <h2>Prazos:</h2>
+      <ul>
+        <li>Período 1: Base do projeto, elementos principais<ul>
+          <li>06/03/2022-13/03/2022</li>
+          <li>13/03/2022-20/03/2022</li>
+        </ul></li>
+        <li>Período 2: Curso de Informática
+        <ul>
+          <li>20/03/2022-27/03/2022</li>
+          <li>27/03/2022-03/04/2022</li>
+        </ul></li>
+        <li>Período 3: Curso de Química
+        <ul>
+          <li>03/04/2022-10/04/2022</li>
+          <li>10/04/2022-17/04/2022</li>
+        </ul></li>
+        <li>Período 4: Curso de Mecânica Industrial
+          <ul>
+          <li>17/04/2022-24/04/2022</li>
+          <li>24/04/2022-01/05/2022</li>
+        </ul>
+        </li>
+        <li>Período 5: Curso de Edificações
+          <ul>
+          <li>01/05/2022-08/05/2022</li>
+          <li>08/05/2022-15/05/2022</li>
+        </ul>
+        </li>
+        <li>Período 6: Curso de Eletrotécnica
+          <ul>
+          <li>15/05/2022-22/05/2022</li>
+          <li>22/05/2022-29/05/2022</li>
+        </ul>
+        </li>
+        <li>Período 7: Curso de Telecomunicações<ul>
+          <li>29/05/2022-05/06/2022</li>
+          <li>05/06/2022-12/06/2022</li>
+        </ul>
+        </li>
+        <li>Período 8: Ajustes finais, e se possível acrescentar mais alguns cursos técnicos, porém somente se conseguir finalizar, não fazer apenas uma parte
+        <ul>
+          <li>12/06/2022-Fim do semestre(XY/06/2022)</li>
+        </ul>
+        </li>
+        
+      </ul>
+    <script src="script.js"></script>
+  </body>
+</html>

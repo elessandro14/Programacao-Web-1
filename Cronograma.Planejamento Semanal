@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h2>Cronograma/Planejamento Semanal:</h2>
+   
+      <table>
+        <thead><tr>
+          <th>Quartas-feiras e Quintas-feiras</th>
+            <td>1 hora de trabalho de noite</td>
+      </tr>
+        </thead>
+        <tr>
+          <th>
+          Segundas-feiras, Terças-feiras e Sextas-feiras   </th>
+            <td>1 hora de trabalho de manhã</td>
+        </tr>
+          
+       <tr>
+          <th>Fins de semana(Sábados e Domingos)</th>
+         <td>2 horas de trabalho em qualquer turno</td>
+          
+        </tr>
+        
+      </table>
+   <img src="cronograma" alt="Cronograma" width="300" height="250">
+  </body>
+</html>
